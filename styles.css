@@ -25,3 +25,8 @@
 	height: 200px;
 	background-color: #D6E9FE;		/* Light bleu */
 }
+
+.page {
+	width: 900px;
+	margin: 0 auto;
+}
